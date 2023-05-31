@@ -19,6 +19,35 @@ public class Main {
         for (int num : quiz_2) {
             System.out.print(num + " ");
         }
+        System.out.println();
 
+        // Quiz 3
+        String code = "abc1abc1abc";
+        String quiz_3 = CodeProcessor.solution(code);
+        System.out.println(quiz_3);
+
+        // Quiz 4
+        int a = 3;
+        int d = 4;
+        boolean[] included = {true, false, false, true, true};
+        int quiz_4 = ArithmeticSequence.solution(a, d, included);
+        System.out.println(quiz_4);
+
+        // Quiz 5
+        int a1 = 2;
+        int b1 = 6;
+        int c1 = 1;
+        int quiz_5 = DiceGame2.solution(a1, b1, c1);
+        int quiz_5_1 = DiceGame2.solution1(a1, b1, c1);
+        System.out.println(quiz_5);
+
+        // Quiz 6
+        int[] num_list = {3, 4, 5, 2, 1};
+        int quiz_6 = ElementSumMultiple.solution(num_list);
+        System.out.println(quiz_6);
+
+        // Quiz 7
+        int quiz_7 = ConcatenatedNumber.solution(num_list);
+        System.out.println(quiz_7);
     }
 }
