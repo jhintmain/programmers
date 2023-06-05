@@ -24,3 +24,5 @@ Stream.of(a, b, c).collect(Collectors.toSet());
 String.chars()
 
 # Stream min().orElse(val)
+
+# 숫자로된 char는 Character.getNumericValue(c)로 가져와서 써야 int형 사용가능
