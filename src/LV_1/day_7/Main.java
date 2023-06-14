@@ -1,4 +1,4 @@
-package day_7;
+package LV_1.day_7;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,5 @@
-package day_6;
+package LV_1.day_6;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;

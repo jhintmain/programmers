@@ -1,4 +1,4 @@
-package day_3;
+package LV_1.day_3;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

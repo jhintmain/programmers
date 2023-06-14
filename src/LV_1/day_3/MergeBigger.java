@@ -1,4 +1,4 @@
-package day_3;
+package LV_1.day_3;
 
 /**
  * Date : 2023-05-29

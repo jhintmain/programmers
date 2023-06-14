@@ -1,4 +1,4 @@
-package day_3;
+package LV_1.day_3;
 
 public class Main {
     public static void main(String[] args) {

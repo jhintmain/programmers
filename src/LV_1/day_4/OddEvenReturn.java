@@ -1,4 +1,4 @@
-package day_4;
+package LV_1.day_4;
 
 import java.util.stream.IntStream;
 

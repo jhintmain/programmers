@@ -1,4 +1,4 @@
-package day_5;
+package LV_1.day_5;
 /**
  * Date : 2023-05-31
  * Lessons : 코딩 기초 트레이닝 > 코드 처리하기
